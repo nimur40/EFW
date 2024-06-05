@@ -24,6 +24,7 @@ course.Topics = new List<Topic>();
 course.Topics.Add(new Topic() 
 { 
     Description="Geating Started"
+//cmd
 } 
 );
 course.Topics.Add(new Topic() { Description="Basic Syntax"});
